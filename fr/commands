@@ -1,9 +1,2 @@
-*CAMERA*AUTO*==js_ia_upCell off on autocameras && js_ia_say confirmation
-*CAMERA*MANUEL*==js_ia_upCell on off autocameras && js_ia_say confirmation
-
-*ALLUM*CAMERA*==js_rf_switchGroup cameras on
-*ETEIN*CAMERA*==js_rf_switchGroup cameras off
-
-*ALLUM*AMBIANCE*==js_rf_switch ambiance 3 on && js_ia_say confirmation
-*ETEIN*AMBIANCE*==js_rf_switch ambiance 3 off && js_ia_say confirmation
-*GETAMBIANCE*==js_ia_sayStrict ambiance 4
+*ALLUME*MEUBLE==js_rf_on
+*ETEIN*MEUBLE==js_rf_off 

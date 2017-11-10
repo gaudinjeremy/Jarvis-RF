@@ -4,10 +4,10 @@
 
 js_rf_on(){
 
-    sudo plugins_installed/jarvis-rf/chacon 0 00000001 1 on
+    sudo plugins_installed/Jarvis-RF/chacon 0 00000001 1 on
 }
 
 js_rf_off(){
 
-    sudo plugins_installed/jarvis-rf/chacon 0 00000001 1 on
+    sudo plugins_installed/Jarvis-RF/chacon 0 00000001 1 off
 }

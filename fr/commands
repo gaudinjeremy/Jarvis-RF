@@ -1,2 +1,4 @@
-*ALLUME*MEUBLE==js_rf_on
-*ETEIN*MEUBLE==js_rf_off 
+#*ALLUME*MEUBLE==js_rf_on
+#*ETEIN*MEUBLE==js_rf_off
+*ALLUME*MEUBLE==jv_rf_switch meuble on
+*ETEIN*MEUBLE==jv_rf_switch meuble off

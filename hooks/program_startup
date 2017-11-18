@@ -1,1 +1,1 @@
-jv_ia addPlugin RF >/dev/null
+jv_ia_print addPlugin rf >/dev/null
